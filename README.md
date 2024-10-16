@@ -22,5 +22,6 @@ A simple **Bakery Cart** application built using **AngularJS** and **Bootstrap**
    ```bash
    git clone https://github.com/your-username/bakery-cart.git
    ```
-    2. **Screenshot**:
+   
+2. **Screenshot**:
        ![Screenshot 2024-10-16 220845](https://github.com/user-attachments/assets/6c174943-883e-4d68-bb8d-1b59aa26c5d0)
